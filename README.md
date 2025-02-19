@@ -1,4 +1,4 @@
-#AugmentoYOLO
+# AugmentoYOLO
 
 YOLOv5m training using finetuning and data augmentation on a custom labeled dataset
 
